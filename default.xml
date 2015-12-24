@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-	<remote name="origin" fetch="git@github.com:zemug" />
+	<remote name="origin" fetch="git@github.com" />
 	<default revision="master" remote="origin" />
-  <project path="repo"
+  <project path="zemug/repo"
            name="repo" />
-  <project path="cpplib"
+  <project path="zemug/cpplib"
            name="cpplib" />
 </manifest>
